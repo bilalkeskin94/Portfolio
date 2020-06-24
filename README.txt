@@ -1,3 +1,3 @@
 ##Bilal Keskin Portfolio Web Site
 
-## url :
+## Live url  : https://bilalkeskin94.github.io/Portfolio/.
